@@ -1,16 +1,16 @@
 ## Hi there 👋
 
 
-**kunal1k5/kunal1k5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-👋 Hi, I’m Kunal Kumar
 
-Here are some ideas to get you started:
+-🔭 I’m currently working on Full-Stack Development
 
-- 🔭 I’m currently working on Full Stack
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-🌱 I’m currently learning DSA
 
+-👯 I’m looking to collaborate on web & app projects
+
+-💬 Ask me about JavaScript, React, Node.js, Flutter
+
+-📫 How to reach me: kunal.kumar1_cs23@gla.ac.in
+
+-⚡ Fun fact: I love building projects that solve real problems
